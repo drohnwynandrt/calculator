@@ -1,5 +1,11 @@
-.calculator{
+div{
+border-color: black;
+border-style: solid;
+}
+.calculator-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    width: 500px;
+    width: 400px;
+    height: 800px;
 }
+
